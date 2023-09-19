@@ -72,3 +72,4 @@ instance/
 .webassets-cache
 
 # Scrapy stuff:
+.scrapy
