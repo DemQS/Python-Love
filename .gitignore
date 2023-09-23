@@ -78,3 +78,4 @@ instance/
 docs/_build/
 
 # PyBuilder
+target/
