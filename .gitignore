@@ -101,3 +101,4 @@ ipython_config.py
 __pypackages__/
 
 # Celery stuff
+celerybeat-schedule
